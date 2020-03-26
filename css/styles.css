@@ -51,7 +51,7 @@ footer {
 }
 
 .set {
-  margin: 10% auto;
+  margin: 2% auto;
 }
 
 .game-over {
@@ -84,4 +84,17 @@ footer {
   text-align: center;
   margin: 10px;
   background-color: white;
+}
+
+.press {
+  color: #fff;
+  font-size: 2rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 1px 0 rgb(4, 218, 218);
+}
+.press.second  {
+  margin: 0;
+  font-size: 100px;
+  line-height: 110px;
 }
